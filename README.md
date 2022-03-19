@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+
+
 <h3 align="center">A passionate for tech, my family and Jesus✟</h3>
 
 - 🌱 I’m currently learning **Javascript and some frameworks**
@@ -20,4 +23,5 @@
 <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+
+<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carreirodev&theme=onedark&row=1&margin-w=5" alt="carreirodev" /></a> </p>
