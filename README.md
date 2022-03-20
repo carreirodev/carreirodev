@@ -11,16 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linked-in-alt.svg" alt="carreiroe" height="40" width="40" />&nbsp;</a>
+<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linkedin.svg" alt="carreiroe" height="40" width="40" />&nbsp;</a>
 <a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/behance.svg" alt="edcarreiro" height="40" width="40" />&nbsp;</a>
 <a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/instagr.svg" alt="edu_wpcweb" height="40" width="40" />&nbsp;</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linked-in-alt.svg" alt="carreiroe" height="40" width="40" />&nbsp;</a>
-<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/behance.svg" alt="edcarreiro" height="40" width="40" />&nbsp;</a>
-<a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/instagr.svg" alt="edu_wpcweb" height="40" width="40" />&nbsp;</a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="40" width="40" />&nbsp;</a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="40" width="40" />&nbsp;</a>
+<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="40" width="40" />&nbsp;</a>
 </p>
 
 <h3 align="left">Tools:</h3>
