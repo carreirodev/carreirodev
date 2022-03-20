@@ -11,25 +11,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linkedin.svg" alt="carreiroe" height="50" width="50" />&nbsp;</a>
-<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/behance.svg" alt="edcarreiro" height="50" width="50" />&nbsp;</a>
-<a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/instagr.svg" alt="edu_wpcweb" height="50" width="50" />&nbsp;</a>
+<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linkedin.svg" alt="carreiroe" height="50" width="50" /></a>&nbsp;
+<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/behance.svg" alt="edcarreiro" height="50" width="50" /></a>&nbsp;
+<a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/instagr.svg" alt="edu_wpcweb" height="50" width="50" /></a>&nbsp;
 </p>
-#
-#
+<p><br></p>
+
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="50" />&nbsp;</a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="50" />&nbsp;</a>
-<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="50" />&nbsp;</a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="50" /></a>&nbsp;
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="50" /></a>&nbsp;
+<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="50" /></a>&nbsp;
 </p>
-#
-#
+<p><br></p>
 <h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/skills/html5.svg" alt="HTML 5" height="50" width="50" />&nbsp;</a>
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/css.svg" alt="CSS 3" height="50" width="50" />&nbsp;</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/javascript.svg" alt="Javascript" height="50" width="50" />&nbsp;</a>
+<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/skills/html5.svg" alt="HTML 5" height="50" width="50" /></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/css.svg" alt="CSS 3" height="50" width="50" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/javascript.svg" alt="Javascript" height="50" width="50" /></a>&nbsp;
 </p>
 
 <p><br></p>
