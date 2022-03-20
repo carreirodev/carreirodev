@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
 
 <h3 align="center">A passionate for tech, my family and Jesus✟</h3>
 
@@ -7,7 +7,7 @@
 
 -   👯 I’m looking to collaborate on **Javascript projects!**
 
--   ⚡ Fun fact **I have a twin couple kids!**
+-   ⚡ Fun fact: **I have a twin couple kids!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
