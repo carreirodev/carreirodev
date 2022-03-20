@@ -17,13 +17,18 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-
-<p align="left"> 
+<p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" width="40" height="40"/>&nbsp;</a>
 
 <a href="http://git.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/git.svg" alt="Git" width="40" height="40"/>&nbsp;</a>
 
 <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/figma.svg" alt="Figma" width="40" height="40"/>&nbsp;</a>
+
+</p>
+
+<h3 align="left">Tools:</h3>
+
+<p align="left">
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
