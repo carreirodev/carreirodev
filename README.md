@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/linkedin.svg" alt="carreiroe" height="50" width="50" /></a>&nbsp;
-<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/behance.svg" alt="edcarreiro" height="50" width="50" /></a>&nbsp;
-<a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/social/instagr.svg" alt="edu_wpcweb" height="50" width="50" /></a>&nbsp;
+<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carreiroe"/></a>&nbsp;
+<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="edcarreiro"  /></a>&nbsp;
+<a href="https://instagram.com/edu_wpcweb" target="blank">&nbsp;<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="edu_wpcweb"/></a>&nbsp;
 </p>
 <p><br></p>
 
