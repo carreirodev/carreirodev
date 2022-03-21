@@ -22,6 +22,8 @@
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="50" /></a>&nbsp;
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="50" /></a>&nbsp;
 <a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="50" /></a>&nbsp;
+<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adobephotoshop.svg" alt="Photoshop" height="50" width="50" /></a>&nbsp;
+<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adobeillustrator.svg" alt="Illustrator" height="50" width="50" /></a>&nbsp;
 </p>
 <p><br></p>
 <h3 align="left">Skills:</h3>
