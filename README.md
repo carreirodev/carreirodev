@@ -19,18 +19,22 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="50" /></a>&nbsp;
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="50" /></a>&nbsp;
-<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="50" /></a>&nbsp;
-<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adobephotoshop.svg" alt="Photoshop" height="50" width="50" /></a>&nbsp;
-<a href="https://figma.com/" target="blank">&nbsp;<img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adobeillustrator.svg" alt="Illustrator" height="50" width="50" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="auto" /></a>&nbsp;
+
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="auto"/></a>&nbsp;
+
+<a href="https://figma.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="auto"/></a>&nbsp;
+
+<a href="https://figma.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adphotoshop.svg" alt="Photoshop" height="50" width="auto"/></a>&nbsp;
+<a href="https://figma.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adillustrator.svg" alt="Illustrator" height="50" width="auto"/></a>&nbsp;
+
 </p>
 <p><br></p>
 <h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/skills/html5.svg" alt="HTML 5" height="50" width="50" /></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/css.svg" alt="CSS 3" height="50" width="50" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/javascript.svg" alt="Javascript" height="50" width="50" /></a>&nbsp;
+<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/skills/html5.svg" alt="HTML 5" height="50" width="auto" /></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/css.svg" alt="CSS 3" height="50" width="auto" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/javascript.svg" alt="Javascript" height="50" width="auto" /></a>&nbsp;
 </p>
 
 <p><br></p>
