@@ -39,4 +39,3 @@
 <p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
 
 <p><br></p>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
