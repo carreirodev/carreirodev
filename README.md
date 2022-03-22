@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/coding.gif"><p align="right"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/coding.gif"><p align="right"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
 
 <h3 align="center">A passionate for tech, my family and Jesus✟</h3>
 
