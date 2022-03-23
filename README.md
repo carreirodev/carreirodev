@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/coding.gif"><p align="right"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/coding.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
 
 <h3 align="center">A passionate for tech, my family and Jesus✟</h3>
 
@@ -36,6 +36,6 @@
 </p>
 
 <p><br></p>
-<p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
+<p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>]![Overall Stats](https://github-readme-stats.vercel.app/api?username=carreidodev&count_private=true&show_icons=true&hide=contribs)
 
 <p><br></p>
