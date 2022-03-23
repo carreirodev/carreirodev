@@ -36,8 +36,9 @@
 </p>
 
 <p><br></p>
-<p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=carreirodev&count_private=true&show_icons=true&hide=contribs)<p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=carreirodev&count_private=true&show_icons=true&hide=contribs)
+
+<p><img align="left" style="display:block; padding-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carreirodev&show_icons=true&locale=en&layout=compact" alt="carreirodev" /></p>
 
 <p><br></p>
