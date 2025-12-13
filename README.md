@@ -20,9 +20,9 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+<a href="https://antigravity.google/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/antigravity.svg" alt="Visual Studio Code" height="50" width="55"/></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="55"/></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="55"/></a>
-<a href="https://figma.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/figma.svg" alt="Figma" height="50" width="55"/></a>
 <a href="https://www.adobe.com/br/products/illustrator.html" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adphotoshop.svg" alt="Photoshop" height="50" width="55"/></a>
 <a href="https://www.adobe.com/br/products/photoshop.html" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adillustrator.svg" alt="Illustrator" height="50" width="55"/></a>
 
