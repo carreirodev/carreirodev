@@ -51,6 +51,8 @@
 
 ###
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carreirodev/carreirodev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carreirodev/carreirodev/pacman-output/pacman-contribution-graph.svg">
@@ -60,9 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carreirodev/carreirodev/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=carreirodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/carreirodev/carreirodev/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
