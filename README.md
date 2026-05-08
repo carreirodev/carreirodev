@@ -1,40 +1,65 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/coding.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=carreirodev&label=Profile%20views&color=0e75b6&style=flat" alt="carreirodev" /> </p>
+###
 
-<h3 align="center">A passionate for tech, my family and Jesus✟</h3>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
--   🌱 I’m currently learning **Javascript and some frameworks**
+###
 
--   👯 I’m looking to collaborate on **Javascript projects!**
+<h2 align="left">About me</h2>
 
--   ⚡ Fun fact: **I have a twin couple kids!**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carreiroe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carreiroe"/></a>&nbsp;
-<a href="https://www.behance.net/edcarreiro" target="blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="edcarreiro"  /></a>&nbsp;
-<a href="https://instagram.com/edu_wpcweb" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="edu_wpcweb"/></a>&nbsp;
-</p>
-<p><br></p>
+<p align="left">✨ Creating bugs since 1994<br>📚 I'm currently learning everything related to AI<br>🎲 Fun fact: Father of Twins (couple)<br>✝️ Follower of Christ</p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://antigravity.google/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/antigravity.svg" alt="Antigravity" padding="10" height="45" width="50"/></a>
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/tools/vscode.svg" alt="Visual Studio Code" height="50" width="55"/></a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/git.svg" alt="Git" height="50" width="55"/></a>
-<a href="https://www.adobe.com/br/products/illustrator.html" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adphotoshop.svg" alt="Photoshop" height="50" width="55"/></a>
-<a href="https://www.adobe.com/br/products/photoshop.html" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/tools/adillustrator.svg" alt="Illustrator" height="50" width="55"/></a>
+###
 
-</p>
-<p><br></p>
-<h3 align="left">Skills:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://raw.githubusercontent.com/carreirodev/carreirodev/master/images/skills/html5.svg" alt="HTML 5" height="50" width="55" /></a>
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/css.svg" alt="CSS 3" height="50" width="55" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/carreirodev/carreirodev/raw/master/images/skills/javascript.svg" alt="Javascript" height="50" width="55" /></a>
-</p>
+<h2 align="left">I code with</h2>
 
-<p><br></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carreirodev/carreirodev/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carreirodev/carreirodev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carreirodev/carreirodev/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carreirodev/carreirodev/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=carreirodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/carreirodev/carreirodev/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
